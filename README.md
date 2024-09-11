@@ -1,1 +1,1 @@
-
+ LAB 1:https://github.com/soudusrilatha/soudusrilatha/blob/main/AIML_part1.ipynb
