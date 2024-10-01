@@ -11,3 +11,6 @@ LAB 4:https://github.com/soudusrilatha/soudusrilatha/blob/main/AIML4.ipynb
 
 
 LAB 5:https://github.com/soudusrilatha/soudusrilatha/blob/main/AIML5.ipynb
+
+
+LAB 6:https://github.com/soudusrilatha/soudusrilatha/blob/main/AIML6.ipynb
