@@ -20,3 +20,5 @@ LAB 7:https://github.com/soudusrilatha/soudusrilatha/blob/main/AIML7.ipynb
 
 
 LAB 8:https://github.com/soudusrilatha/soudusrilatha/blob/main/AIML8.ipynb
+
+LAB 9:https://github.com/soudusrilatha/soudusrilatha/blob/main/AIML9.ipynb
